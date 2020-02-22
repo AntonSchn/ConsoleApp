@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e458fea6-574d-4219-89a0-ea6fb02f229c" name="Default Changelist" comment="" />
+    <list id="9724214b-7f19-4db1-9bed-3c7c7f61f86d" name="Add Console App" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Statistic.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Statistic.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Statistic.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Console app" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XwiPm2JBY367RPcPgIJG5BnZpP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.anton.bll.Helpers" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Savchenko\Desktop\untitled" />
+      <recent name="C:\Users\Savchenko\Desktop\untitled\src\main\resources" />
+      <recent name="C:\Users\Savchenko\Desktop\untitled\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.statistic.app.Main" />
+      <module name="Console app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.statistic.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorFileStatisticTest.getAverageWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Console app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.statistic.logic.helpers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.statistic.logic.helpers" />
+      <option name="MAIN_CLASS_NAME" value="com.statistic.logic.helpers.CalculatorFileStatisticTest" />
+      <option name="METHOD_NAME" value="getAverageWord" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorFileStatisticTest.getDuplicateMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Console app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.statistic.logic.helpers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.statistic.logic.helpers" />
+      <option name="MAIN_CLASS_NAME" value="com.statistic.logic.helpers.CalculatorFileStatisticTest" />
+      <option name="METHOD_NAME" value="getDuplicateMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorFileStatisticTest.getShortestWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Console app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.statistic.logic.helpers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.statistic.logic.helpers" />
+      <option name="MAIN_CLASS_NAME" value="com.statistic.logic.helpers.CalculatorFileStatisticTest" />
+      <option name="METHOD_NAME" value="getShortestWord" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorLineStatisticTest.getAverageWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Console app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.statistic.logic.helpers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.statistic.logic.helpers" />
+      <option name="MAIN_CLASS_NAME" value="com.statistic.logic.helpers.CalculatorLineStatisticTest" />
+      <option name="METHOD_NAME" value="getAverageWord" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.CalculatorLineStatisticTest.getAverageWord" />
+      <item itemvalue="JUnit.CalculatorFileStatisticTest.getDuplicateMap" />
+      <item itemvalue="JUnit.CalculatorFileStatisticTest.getShortestWord" />
+      <item itemvalue="JUnit.CalculatorFileStatisticTest.getAverageWord" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CalculatorFileStatisticTest.getDuplicateMap" />
+        <item itemvalue="JUnit.CalculatorFileStatisticTest.getAverageWord" />
+        <item itemvalue="JUnit.CalculatorLineStatisticTest.getAverageWord" />
+        <item itemvalue="JUnit.CalculatorFileStatisticTest.getShortestWord" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:asdasds.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:asdasds.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@14bc1a3d" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:asdasds.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@7aeb9a31" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:asdasds.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@7ae767ac" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:asdasds.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@7c137ece" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e458fea6-574d-4219-89a0-ea6fb02f229c" name="Default Changelist" comment="" />
+      <changelist id="9724214b-7f19-4db1-9bed-3c7c7f61f86d" name="Add Console App" comment="" />
+      <created>1581963535771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581963535771</updated>
+      <workItem from="1581963537567" duration="11646000" />
+      <workItem from="1582136578105" duration="5277000" />
+      <workItem from="1582222738043" duration="6674000" />
+      <workItem from="1582288487190" duration="786000" />
+      <workItem from="1582289295840" duration="1002000" />
+      <workItem from="1582290375076" duration="5415000" />
+      <workItem from="1582388594217" duration="4702000" />
+      <workItem from="1582393913639" duration="6000" />
+      <workItem from="1582394484253" duration="856000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="182" key="#Project_Structure" timestamp="1582229062163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1582229062163" />
+    <state x="385" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582393125398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="385" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582393125398" />
+    <state x="716" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582289122027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582289122027" />
+    <state x="736" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1582223502491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582223502491" />
+    <state x="811" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1582223010016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1582223010016" />
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582226160448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582226160448" />
+    <state x="565" y="113" key="CommitChangelistDialog2" timestamp="1582395398745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582395398745" />
+    <state x="711" y="271" key="FileChooserDialogImpl" timestamp="1582393115839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="271" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582393115839" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1582393708094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582393708094" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1582393708094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582393708094" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1582393708093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582393708093" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1582393708094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582393708094" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1582229420745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582229420745" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1582229420745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582229420745" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1582229420745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582229420745" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1582229420745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582229420745" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1581974795550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1581974795550" />
+    <state x="411" y="104" key="SettingsEditor" timestamp="1582395061450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="411" y="104" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582395061450" />
+    <state x="807" y="436" key="VCS.ChangelistChooser" timestamp="1582395156559">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="807" y="436" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582395156559" />
+    <state x="552" y="242" key="Vcs.Push.Dialog.v2" timestamp="1582395430893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582395430893" />
+    <state x="846" y="414" width="319" height="222" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1582222945119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="846" y="414" width="319" height="222" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040@0.0.1920.1040" timestamp="1582222945119" />
+    <state x="540" y="175" key="com.intellij.database.dbimport.ImportDialog" timestamp="1582289847126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="com.intellij.database.dbimport.ImportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582289847126" />
+    <state x="1315" y="240" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1582225824232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1315" y="240" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582225824232" />
+    <state x="564" y="409" key="com.intellij.ide.util.TipDialog" timestamp="1582395351790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="564" y="409" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582395351790" />
+    <state x="731" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582227677726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582227677726" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582388609419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582388609419" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="temp.fileStatistic" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
